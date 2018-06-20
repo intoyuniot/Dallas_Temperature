@@ -1,6 +1,6 @@
 {
     "name": "Dallas_Temperature",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "keywords": "DS18B20, DS18S20, DS18B22, DS18B25",
     "description": "DS18B20/S20/B22/B25温度传感器库",
     "repository": {
